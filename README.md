@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Module 20: User Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this module we are to create a portfolio in which we are to lay out pur skills and such. This is inrended fo rour future employer so should look prsentable.
 
 ## Available Scripts
 
